@@ -1,0 +1,17 @@
+.bash_history
+.bash_logout
+.bashrc
+.cache
+.gitconfig
+.moonraker_database
+.profile
+.ssh
+.wget-hsts
+fluidd
+gcode_files
+klipper
+klipper_logs
+klippy-env
+mjpg-streamer
+moonraker-env
+moonraker
